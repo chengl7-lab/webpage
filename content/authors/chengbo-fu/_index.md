@@ -2,8 +2,11 @@
 title: Chengbo Fu
 role: Phd Student
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
+interests:
+  - Bioinformatics
+  - Machine Learning
+  - Optimal Transportation
 social:
   - display:
       header: false
@@ -14,3 +17,4 @@ superuser: false
 user_groups:
   - Phd Students
 ---
+Chengbo Fu is a doctoral candidate at the department of Computer Science, Aalto University. His study field is bioinformatics. He works on the data mining problems related to high-dimension in biology. His research interest is how to develop dimensional reduction algorithms and optimal transformation methods to solve biological problems.
