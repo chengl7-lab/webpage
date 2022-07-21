@@ -7,6 +7,11 @@ social:
     link: https://scholar.google.fi/citations?user=Zy14QK0AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: mailto:test@example.org
+    icon: envelope
+    icon_pack: fas
 superuser: true
 user_groups:
   - Principal Investigators
