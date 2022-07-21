@@ -14,11 +14,6 @@ social:
     icon: google-scholar
   - display:
       header: false
-    link: mailto:test@example.org
-    icon: envelope
-    icon_pack: fas
-  - display:
-      header: false
     link: mailto:fistname.lastname@aalto.fi
     icon_pack: fas
     icon: envelope
