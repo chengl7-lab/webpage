@@ -1,6 +1,11 @@
 ---
 title: Lu Cheng
 role: Principal Investigator
+interests:
+  - Single cell bioinformatics
+  - Metagenomics
+  - Machine learning
+  - Bayesian statistics
 social:
   - display:
       header: false
@@ -12,6 +17,11 @@ social:
     link: mailto:test@example.org
     icon: envelope
     icon_pack: fas
+  - display:
+      header: false
+    link: mailto:fistname.lastname@aalto.fi
+    icon_pack: fas
+    icon: envelope
 superuser: true
 user_groups:
   - Principal Investigators
