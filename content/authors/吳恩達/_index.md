@@ -16,7 +16,7 @@ social:
     link: https://github.com/guangzhaocs
     icon_pack: fab
     icon: github
-superuser: true
+superuser: false
 user_groups:
   - Phd Students
 ---
