@@ -1,36 +1,27 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Aalto University
     url: ""
 superuser: false
 authors:
   - 吳恩達
 title: Guangzhao Cheng
 role: Phd Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Machine Learning, Multimodal Learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DNA/RNA Base-calling
+  - Multimodal Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:gz.cheng.cs@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: [https://github.com/gcushen](https://github.com/guangzhaocs)
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Computer Scinece: Aalto University
+      year: 2021-now
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -42,6 +33,4 @@ user_groups:
   - Phd Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Guangzhao Cheng is a Phd Student.
