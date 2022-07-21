@@ -5,7 +5,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    link: gz.cheng.cs@gmail.com
+    link: mailto:gz.cheng.cs@gmail.com
     icon: envelope
   - display:
       header: false
