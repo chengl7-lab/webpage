@@ -1,6 +1,10 @@
 ---
 title: Guangzhao Cheng
 role: Phd Student
+interests:
+  - Machine Learning
+  - DNA/RNA Base-calling
+  - Multimodal Learning
 social:
   - display:
       header: false
@@ -16,3 +20,4 @@ superuser: true
 user_groups:
   - Phd Students
 ---
+Guangzhao Cheng is a Ph.D. student at the Department of Computer Science, Aalto University.
