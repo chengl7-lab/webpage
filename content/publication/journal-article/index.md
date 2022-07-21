@@ -12,7 +12,7 @@ abstract: "The oral microbiota plays vital roles in both oral and systemic
   taxa Prevotella and Atopobium parvulum were significantly higher during late
   pregnancy than preconception. Women with overall better oral. "
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.tandfonline.com/doi/pdf/10.1080/20002297.2022.2053389
 publication_types:
   - "2"
 authors:
