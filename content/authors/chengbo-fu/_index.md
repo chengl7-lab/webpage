@@ -11,4 +11,6 @@ social:
     icon_pack: fas
     icon: envelope
 superuser: false
+user_groups:
+  - Phd Students
 ---
