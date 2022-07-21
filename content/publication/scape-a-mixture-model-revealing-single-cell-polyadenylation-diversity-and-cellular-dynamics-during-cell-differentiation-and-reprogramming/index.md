@@ -21,6 +21,7 @@ abstract: Alternative polyadenylation increases transcript diversities at the
   differentiation, suggesting APA contributes to the functional flexibility and
   diversity of single cells. We expect SCAPE to aid the analyses of cellular
   dynamics and diversities in health and disease.
+url_pdf: https://www.tandfonline.com/doi/pdf/10.1080/20002297.2022.2053389
 draft: false
 featured: false
 image:
