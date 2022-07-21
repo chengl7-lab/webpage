@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-title: 吳恩達
+title: Guangzhao Cheng
 role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
