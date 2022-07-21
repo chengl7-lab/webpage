@@ -5,7 +5,7 @@ social:
   - display:
       header: false
     link: https://scholar.google.fi/citations?user=Zy14QK0AAAAJ&hl=en
-    icon_pack: fas
+    icon_pack: ai
     icon: google-scholar
 superuser: true
 user_groups:
