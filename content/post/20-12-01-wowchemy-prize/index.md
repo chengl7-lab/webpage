@@ -1,8 +1,10 @@
 ---
 title: Our paper about oral microbiota in pregenant women is published in
   Journal of Oral Microbiology.
-date: 2022-12-02T22:00:00.000Z
+date: 2022-07-21T15:27:40.196Z
 ---
+The oral microbiota plays vital roles in both oral and systemic health, but limited studies have explored the transition of the female oral microbiota from preconception to pregnancy along with pronounced hormonal fluctuations.
+
 <!--more-->
 
 ### Background
