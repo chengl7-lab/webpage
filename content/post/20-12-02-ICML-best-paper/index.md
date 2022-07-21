@@ -1,7 +1,7 @@
 ---
 title: Our paper about estimating alternative polyadenylation (APA) from
   scRNA-seq has been accepted by Nucleic Acids Research.
-date: 2022-12-02T22:00:00.000Z
+date: 2022-07-21T15:27:58.747Z
 image:
   focal_point: top
 ---
