@@ -11,10 +11,9 @@ publication_types:
   - "2"
 authors:
   - admin
-publication: In *Journal of oral microbiology*
+publication: "*Journal of oral microbiology*"
 featured: false
-tags:
-  - Source Themes
+tags: []
 projects: []
 summary: ""
 url_dataset: "#"
