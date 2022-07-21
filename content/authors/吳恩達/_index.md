@@ -10,7 +10,7 @@ social:
   - display:
       header: false
     link: https://github.com/guangzhaocs
-    icon_pack: fas
+    icon_pack: fab
     icon: github
 superuser: true
 user_groups:
