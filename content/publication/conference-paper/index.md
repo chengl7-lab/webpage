@@ -15,8 +15,7 @@ publication: In *Journal of oral microbiology*
 featured: false
 tags:
   - Source Themes
-projects:
-  - internal-project
+projects: []
 summary: ""
 url_dataset: "#"
 url_project: ""
