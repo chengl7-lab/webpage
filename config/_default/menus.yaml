@@ -2,11 +2,14 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
+#   - name: Tour
+#    url: tour
+#    weight: 10
+#   - name: Contact
+#    url: contact
+#    weight: 60
 
 main:
-  - name: Tour
-    url: tour
-    weight: 10
   - name: News
     url: post
     weight: 20
@@ -19,6 +22,3 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
