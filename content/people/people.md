@@ -19,7 +19,7 @@ content:
     - Principal Investigators
     - Researchers
     - Phd Students
-    - Grad Students
+    - Master Students
     - Administration
     - Visitors
     - Alumni
