@@ -4,7 +4,6 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: Computational Genomics Lab
-hero_media: welcome.jpg
 design:
   columns: "1"
   css_style: null
