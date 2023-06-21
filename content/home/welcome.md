@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: bg2.jpg
+    image: bg1.jpg
 ---
 <br>
 
