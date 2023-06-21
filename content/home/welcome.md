@@ -2,14 +2,13 @@
 widget: hero
 widget_id: RECENT-POSTS
 headless: true
-weight: 10
+weight: 15
 title: Computational Genomics Lab
+hero_media: IMG_8939.jpg
 design:
   columns: "1"
   css_style: null
   css_class: null
-  background:
-    image: IMG_8939.jpg
 ---
 <br>
 
