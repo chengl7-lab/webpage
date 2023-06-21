@@ -2,7 +2,7 @@
 widget: hero
 widget_id: RECENT-POSTS
 headless: true
-weight: 15
+weight: 20
 title: Computational Genomics Lab
 hero_media: IMG_8939.jpg
 design:
