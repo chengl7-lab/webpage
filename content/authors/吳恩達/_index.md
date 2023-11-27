@@ -1,6 +1,7 @@
 ---
 title: Guangzhao Cheng
 role: Phd Student
+avatar_filename: avatar.jpg
 interests:
   - Machine Learning
   - DNA/RNA Base-calling
