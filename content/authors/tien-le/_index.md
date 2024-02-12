@@ -1,7 +1,7 @@
 ---
 title: Tien Le
 role: Master Student
-avatar_filename: avatar
+avatar_filename: 
 interests:
   - Single-cell bioinformatics
   - Bayesian statistics
